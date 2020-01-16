@@ -1,4 +1,4 @@
-/* Définition des polices personnalisées */
+﻿/* Définition des polices personnalisées */
 
 @font-face
 {
@@ -41,9 +41,11 @@ body
 
 section h1, footer h1, nav a
 {
+	color : red;
     font-family: Dayrom, serif;
     font-weight: normal;
     text-transform: uppercase;
+
 }
 
 /* Header */
